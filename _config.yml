@@ -1,8 +1,8 @@
 theme: minima
-title: Checking things out
-author: myself
-description: dekh te hai, ki kya hota hai...
+# title: Checking things out
+# author: myself
+# description: dekh te hai, ki kya hota hai...
 
 # tweaking minima
 minima:
-  skin: dark
+  skin: solar
