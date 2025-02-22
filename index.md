@@ -40,7 +40,7 @@ I work with a variety of tools and technologies to create high-quality projects.
 
 ## Get in Touch
 
-Feel free to reach out to me at  [skandanyalagach@gmail.com](mailto:skandanyalagach@gmail.com) or connect with me on LinkedIn(https://in.linkedin.com/in/skandan-c-y-b0608a2a9).
+Feel free to reach out to me at  [skandanyalagach@gmail.com](mailto:skandanyalagach@gmail.com) or connect with me on [LinkedIn](https://in.linkedin.com/in/skandan-c-y-b0608a2a9).
 
 ---
 
