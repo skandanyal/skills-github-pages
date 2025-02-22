@@ -6,15 +6,15 @@ Hi, I'm **Skandan** – a budding and enthusiastic student, navigating my way th
 
 ## About Me
 
-I am an undergraduate student studying Computer Science, with a focus on Machine Learning. Currently, I am working with - 
+I am an undergraduate student studying Computer Science with a focus on Machine Learning. Currently, I am working with - 
   * `C++` to learn and implement Data Structures and Algorithms
   * `Python` and its libraries to learn Machine Learning.
 Feel free to explore my projects on GitHub and get in touch!
 
 - **Location**: India
 - **Email**: skandanyalagach@gmail.com
-- **LinkedIn**: [click here to view my LinkedIn profile](https://in.linkedin.com/in/skandan-c-y-b0608a2a9)
-- **GitHub**: [click here to view my GitHub profile](https://github.com/skandanyal)
+- **LinkedIn**: [LinkedIn profile](https://in.linkedin.com/in/skandan-c-y-b0608a2a9)
+- **GitHub**: [GitHub profile](https://github.com/skandanyal)
 
 ---
 
@@ -22,9 +22,9 @@ Feel free to explore my projects on GitHub and get in touch!
 
 Here are some of my repos that I am actively working on.
 
-### 1. Machine Learning course([Link to GitHub Repo](https://github.com/skandanyal/Machine-Learning-course))
+### Machine Learning course([Link to GitHub Repo](https://github.com/skandanyal/Machine-Learning-course))
 **Technologies Used**: Pandas, Numpy, Matplotlib, Scikit-Learn  
-I am learning how to use existing models on ScikitLearn module though a course. This repository contains all the Jupyter notebooks which I created along my journey. 
+I am learning how to use existing models on ScikitLearn module through a course. This repository contains all the Jupyter notebooks which I created along my journey. 
 
 ---
 
@@ -37,9 +37,9 @@ I work with a variety of tools and technologies to create high-quality projects.
 
 --- 
 
-## Get In Touch
+## Get in Touch
 
-Feel free to reach out to me at `skandanyalagach@gmail.com` or connect with me on LinkedIn(https://in.linkedin.com/in/skandan-c-y-b0608a2a9).
+Feel free to reach out to me at  [skandanyalagach@gmail.com](mailto:skandanyalagach@gmail.com) or connect with me on LinkedIn(https://in.linkedin.com/in/skandan-c-y-b0608a2a9).
 
 ---
 
