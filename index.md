@@ -22,7 +22,7 @@ Feel free to explore my projects on GitHub and get in touch!
 
 Here are some of my repos that I am actively working on.
 
-### 1. [Machine Learning course]([Link to GitHub Repo](https://github.com/skandanyal/Machine-Learning-course))
+### 1. Machine Learning course([Link to GitHub Repo](https://github.com/skandanyal/Machine-Learning-course))
 **Technologies Used**: Pandas, Numpy, Matplotlib, Scikit-Learn  
 I am learning how to use existing models on ScikitLearn module though a course. This repository contains all the Jupyter notebooks which I created along my journey. 
 
