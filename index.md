@@ -1,6 +1,6 @@
 
 
-Hi, I'm **Skandan** – a budding and enthusiastic student, navigating my way through Machine learning. This is where I showcase my work, projects, and skills.
+Hi, I'm **Skandan C Yalagach** – a budding and enthusiastic student, navigating my way through Machine learning. This is where I showcase my work, projects, and skills.
 
 ---
 
