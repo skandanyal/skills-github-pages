@@ -8,7 +8,7 @@ Hi, I'm **Skandan C Yalagach** – a budding and enthusiastic student, navigatin
 
 I am an undergraduate student studying Computer Science with a focus on Machine Learning. Currently, I am working with - 
   * `C++` to learn and implement Data Structures and Algorithms
-  * `Python` and its libraries to learn Machine Learning.
+  * `Python` and its libraries to learn Machine Learning.   
 Feel free to explore my projects on GitHub and get in touch!
 
 - **Location**: India
