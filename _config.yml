@@ -5,4 +5,4 @@ theme: minima
 
 # tweaking minima
 minima:
-  skin: solar
+  skin: solarized
