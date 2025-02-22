@@ -1,4 +1,4 @@
-# Welcome to My Personal Portfolio
+
 
 Hi, I'm **Skandan** – a budding and enthusiastic student, navigating my way through Machine learning. This is where I showcase my work, projects, and skills.
 
